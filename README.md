@@ -1,4 +1,4 @@
-# 🥷 Ninja Archive 3.2
+# 🥷 Ninja Archive 3.2 - A ClassDojo Photo, Video and Post Downloader Extension for Chromium Based Browsers, Google Chrome, Microsoft Edge
 
 **Ninja Archive** is a simple, privacy-friendly browser extension for **Chromium-based browsers** (Chrome, Edge, Brave, etc.).  
 It allows parents and guardians to **archive all their child’s ClassDojo Story content** — including photos, videos, PDFs, captions, and full JSON metadata — automatically organised by date.
